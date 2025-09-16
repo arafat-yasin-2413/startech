@@ -6,7 +6,7 @@ export default function Home() {
         <h2>Hello world</h2>
 
         {/* Alex's code here */}
-        <p>Hi, I am alex.</p>
+        <p>Hi, I am alex. I live in NYC</p>
     </div>
   );
 }
